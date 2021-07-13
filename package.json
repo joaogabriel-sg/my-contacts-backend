@@ -4,5 +4,8 @@
 	"description": "API to store contacts",
 	"main": "src/index.js",
 	"author": "João Gabriel",
-	"license": "MIT"
+	"license": "MIT",
+	"dependencies": {
+		"express": "^4.17.1"
+	}
 }
