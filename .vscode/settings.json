@@ -2,5 +2,4 @@
   "[javascript]": {
     "editor.defaultFormatter": "dbaeumer.vscode-eslint",
   },
-  "discord.enabled": true,
 }
